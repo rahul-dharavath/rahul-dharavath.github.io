@@ -27,3 +27,8 @@
     text-decoration: none;
     color: white;
 }
+.box{
+    margin: 20px;
+    padding: 10px;
+    border: 2px black solid;
+}
